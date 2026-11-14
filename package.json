@@ -1,0 +1,15 @@
+{
+  "name": "caldera-war-room",
+  "version": "1.0.0",
+  "description": "AI agent war room for the nightly Caldera battle: leaderboard snapshots, rival tracking and strike planning.",
+  "type": "module",
+  "license": "MIT",
+  "scripts": {
+    "snapshot": "node scripts/snapshot.mjs",
+    "test": "node --test"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.68.0"
+  },
+  "keywords": ["ai", "llm", "agents", "claude", "mcp", "caldera"]
+}
