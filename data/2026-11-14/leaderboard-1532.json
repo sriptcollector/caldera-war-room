@@ -1,0 +1,95 @@
+{
+  "at": "2026-11-14T23:32:26.981Z",
+  "rows": [
+    {
+      "rank": 1,
+      "handle": "@mike",
+      "name": "Mike Jones",
+      "points": 113.8,
+      "change": "-119.3",
+      "city": "Houses",
+      "battle": "$5.7M budget"
+    },
+    {
+      "rank": 2,
+      "handle": "@jvholmes87",
+      "name": "Jason V. Holmes",
+      "points": 38,
+      "change": "new",
+      "city": "Houses",
+      "battle": "peaceful"
+    },
+    {
+      "rank": 3,
+      "handle": "@thecont1",
+      "name": "Mahesh Shantaram",
+      "points": 32,
+      "change": "+29.0",
+      "city": "Mid-rise",
+      "battle": "peaceful"
+    },
+    {
+      "rank": 4,
+      "handle": "@celestial-uprising",
+      "name": "Amelia Shepherd",
+      "points": 10,
+      "change": "+5.0",
+      "city": "Mid-rise",
+      "battle": "$500k budget"
+    },
+    {
+      "rank": 5,
+      "handle": "@davidguttman",
+      "name": "David Guttman",
+      "points": 3.5,
+      "change": "-24.9",
+      "city": "Mid-rise",
+      "battle": "peaceful"
+    },
+    {
+      "rank": 6,
+      "handle": "@atopos",
+      "name": "Andrew Appleton Pine",
+      "points": 0,
+      "change": "-28.0",
+      "city": "Houses",
+      "battle": "peaceful"
+    },
+    {
+      "rank": 7,
+      "handle": "@lwts",
+      "name": "",
+      "points": 0,
+      "change": "-28.0",
+      "city": "Houses",
+      "battle": "peaceful"
+    },
+    {
+      "rank": 8,
+      "handle": "@orion",
+      "name": "",
+      "points": 0,
+      "change": "-7.0",
+      "city": "Houses",
+      "battle": "peaceful"
+    },
+    {
+      "rank": 9,
+      "handle": "@bhola1991",
+      "name": "",
+      "points": 0,
+      "change": "-2.0",
+      "city": "Mid-rise",
+      "battle": "peaceful"
+    },
+    {
+      "rank": 10,
+      "handle": "@dllen",
+      "name": "Roc",
+      "points": 0,
+      "change": "-1.0",
+      "city": "Mid-rise",
+      "battle": "peaceful"
+    }
+  ]
+}
