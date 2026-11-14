@@ -5,8 +5,8 @@ cd "$(dirname "$0")/.."
 exec >> run.log 2>&1
 echo "=== $(date -Is) start"
 git checkout -q main && git pull -q --rebase
-stamp=$(TZ=America/Los_Angeles date +%Y%m%d-%H%M)
-day=$(TZ=America/Los_Angeles date +%Y-%m-%d)
+stamp=$(node -e "const d=new Date(),o={timeZone:'America/Los_Angeles'};process.stdout.write(d.toLocaleDateString('en-CA',o).replace(/-/g,'')+'-'+d.toLocaleTimeString('en-GB',{...o,hour:'2-digit',minute:'2-digit'}).replace(':',''))")
+day="${stamp:0:4}-${stamp:4:2}-${stamp:6:2}"
 branch="snapshot/$stamp"
 git checkout -q -b "$branch"
 npm run -s snapshot
