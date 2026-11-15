@@ -1,5 +1,5 @@
 {
-  "at": "2026-11-15T02:44:03.709Z",
+  "at": "2026-11-15T02:59:03.381Z",
   "rows": [
     {
       "rank": 1,
@@ -12,6 +12,15 @@
     },
     {
       "rank": 2,
+      "handle": "@orion",
+      "name": "",
+      "points": 80,
+      "change": "+73.0",
+      "city": "Houses",
+      "battle": "peaceful"
+    },
+    {
+      "rank": 3,
       "handle": "@thecont1",
       "name": "Mahesh Shantaram",
       "points": 70,
@@ -20,20 +29,11 @@
       "battle": "peaceful"
     },
     {
-      "rank": 3,
+      "rank": 4,
       "handle": "@jvholmes87",
       "name": "Jason V. Holmes",
       "points": 38,
       "change": "new",
-      "city": "Houses",
-      "battle": "peaceful"
-    },
-    {
-      "rank": 4,
-      "handle": "@orion",
-      "name": "",
-      "points": 31,
-      "change": "+24.0",
       "city": "Houses",
       "battle": "peaceful"
     },
