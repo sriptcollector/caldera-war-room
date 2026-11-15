@@ -1,5 +1,5 @@
 {
-  "at": "2026-11-15T11:44:03.834Z",
+  "at": "2026-11-15T11:59:06.725Z",
   "rows": [
     {
       "rank": 1,
@@ -12,21 +12,21 @@
     },
     {
       "rank": 2,
+      "handle": "@thecont1",
+      "name": "Mahesh Shantaram",
+      "points": 5,
+      "change": "-65.0",
+      "city": "Mid-rise",
+      "battle": "peaceful"
+    },
+    {
+      "rank": 3,
       "handle": "@mike",
       "name": "Mike Jones",
       "points": 0,
       "change": "-113.8",
       "city": "Houses",
       "battle": "$0 budget"
-    },
-    {
-      "rank": 3,
-      "handle": "@thecont1",
-      "name": "Mahesh Shantaram",
-      "points": 0,
-      "change": "-70.0",
-      "city": "Mid-rise",
-      "battle": "peaceful"
     },
     {
       "rank": 4,
@@ -57,6 +57,15 @@
     },
     {
       "rank": 7,
+      "handle": "@benzema216",
+      "name": "BENZEMA",
+      "points": 0,
+      "change": "-4.0",
+      "city": "Houses",
+      "battle": "peaceful"
+    },
+    {
+      "rank": 8,
       "handle": "@jgeofil",
       "name": "Jeremy",
       "points": 0,
@@ -65,7 +74,7 @@
       "battle": "peaceful"
     },
     {
-      "rank": 8,
+      "rank": 9,
       "handle": "@atopos",
       "name": "Andrew Appleton Pine",
       "points": 0,
@@ -74,18 +83,9 @@
       "battle": "peaceful"
     },
     {
-      "rank": 9,
+      "rank": 10,
       "handle": "@333",
       "name": "binlei",
-      "points": 0,
-      "change": "0.0",
-      "city": "Houses",
-      "battle": "peaceful"
-    },
-    {
-      "rank": 10,
-      "handle": "@abineshabee",
-      "name": "Abinesh N",
       "points": 0,
       "change": "0.0",
       "city": "Houses",
