@@ -1,23 +1,23 @@
 {
-  "at": "2026-11-15T04:59:03.634Z",
+  "at": "2026-11-15T05:14:03.699Z",
   "rows": [
     {
       "rank": 1,
+      "handle": "@orion",
+      "name": "",
+      "points": 168,
+      "change": "+161.0",
+      "city": "Houses",
+      "battle": "peaceful"
+    },
+    {
+      "rank": 2,
       "handle": "@mike",
       "name": "Mike Jones",
       "points": 113.8,
       "change": "-119.3",
       "city": "Houses",
       "battle": "$5.7M budget"
-    },
-    {
-      "rank": 2,
-      "handle": "@orion",
-      "name": "",
-      "points": 103,
-      "change": "+96.0",
-      "city": "Houses",
-      "battle": "peaceful"
     },
     {
       "rank": 3,
