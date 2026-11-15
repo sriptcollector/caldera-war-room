@@ -1,30 +1,30 @@
 {
-  "at": "2026-11-15T07:59:03.733Z",
+  "at": "2026-11-15T08:14:03.573Z",
   "rows": [
     {
       "rank": 1,
       "handle": "@orion",
       "name": "",
-      "points": 222,
-      "change": "+215.0",
+      "points": 0,
+      "change": "-222.0",
       "city": "Houses",
-      "battle": "$11.1M budget"
+      "battle": "$0 budget"
     },
     {
       "rank": 2,
       "handle": "@mike",
       "name": "Mike Jones",
-      "points": 113.8,
-      "change": "-119.3",
+      "points": 0,
+      "change": "-113.8",
       "city": "Houses",
-      "battle": "$5.7M budget"
+      "battle": "$0 budget"
     },
     {
       "rank": 3,
       "handle": "@thecont1",
       "name": "Mahesh Shantaram",
-      "points": 70,
-      "change": "+67.0",
+      "points": 0,
+      "change": "-70.0",
       "city": "Mid-rise",
       "battle": "peaceful"
     },
@@ -32,26 +32,26 @@
       "rank": 4,
       "handle": "@jvholmes87",
       "name": "Jason V. Holmes",
-      "points": 41,
-      "change": "new",
+      "points": 0,
+      "change": "-41.0",
       "city": "Houses",
-      "battle": "$2.1M budget"
+      "battle": "$0 budget"
     },
     {
       "rank": 5,
       "handle": "@celestial-uprising",
       "name": "Amelia Shepherd",
-      "points": 10,
-      "change": "+5.0",
+      "points": 0,
+      "change": "-10.0",
       "city": "Mid-rise",
-      "battle": "$500k budget"
+      "battle": "$0 budget"
     },
     {
       "rank": 6,
       "handle": "@davidguttman",
       "name": "David Guttman",
-      "points": 6.9,
-      "change": "-21.5",
+      "points": 0,
+      "change": "-6.9",
       "city": "Mid-rise",
       "battle": "peaceful"
     },
@@ -59,8 +59,8 @@
       "rank": 7,
       "handle": "@jgeofil",
       "name": "Jeremy",
-      "points": 4,
-      "change": "+3.0",
+      "points": 0,
+      "change": "-4.0",
       "city": "Houses",
       "battle": "peaceful"
     },
@@ -68,27 +68,27 @@
       "rank": 8,
       "handle": "@atopos",
       "name": "Andrew Appleton Pine",
-      "points": 0.7,
-      "change": "-27.3",
+      "points": 0,
+      "change": "-0.7",
       "city": "Houses",
       "battle": "peaceful"
     },
     {
       "rank": 9,
-      "handle": "@lwts",
-      "name": "",
+      "handle": "@333",
+      "name": "binlei",
       "points": 0,
-      "change": "-28.0",
+      "change": "0.0",
       "city": "Houses",
       "battle": "peaceful"
     },
     {
       "rank": 10,
-      "handle": "@bhola1991",
-      "name": "",
+      "handle": "@abineshabee",
+      "name": "Abinesh N",
       "points": 0,
-      "change": "-2.0",
-      "city": "Mid-rise",
+      "change": "0.0",
+      "city": "Houses",
       "battle": "peaceful"
     }
   ]
