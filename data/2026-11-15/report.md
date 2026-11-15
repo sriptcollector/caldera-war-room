@@ -1,11 +1,11 @@
-# Rival report 2026-11-15 01:44 PT
+# Rival report 2026-11-15 01:59 PT
 
-- Leader: @orion with 14 points (Houses, $700k budget)
-- @orion: #1, 14 points, 0.0 behind
+- Leader: @orion with 72 points (Houses, $3.6M budget)
+- @orion: #1, 72 points, 0.0 behind
 
 | # | Developer | Points | Change | City | Battle |
 |---|---|---|---|---|---|
-| 1 | @orion | 14 | -214.0 | Houses | $700k budget |
+| 1 | @orion | 72 | -216.0 | Houses | $3.6M budget |
 | 2 | @mike | 0 | -113.8 | Houses | $0 budget |
 | 3 | @thecont1 | 0 | -70.0 | Mid-rise | peaceful |
 | 4 | @jvholmes87 | 0 | -41.0 | Houses | $0 budget |
