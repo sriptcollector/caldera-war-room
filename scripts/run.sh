@@ -13,15 +13,19 @@ npm run -s snapshot
 git add data/$day/leaderboard-*.json && git commit -q -m "Leaderboard snapshot $stamp"
 git add data/$day/report.md && git commit -q -m "Rival report $stamp"
 git add data/history.csv && git commit -q -m "History row $stamp"
+cp "$(ls data/$day/leaderboard-*.json | tail -1)" data/latest.json
+git add data/latest.json && git commit -q -m "Latest standings $stamp"
+node scripts/readme.mjs
+git add README.md && git commit -q -m "README standings $stamp"
 git push -q -u origin "$branch"
 gh pr create --fill --base main --head "$branch" >/dev/null
 sleep 20
 gh pr checks "$branch" --watch --fail-fast >/dev/null
 gh pr merge "$branch" --rebase --delete-branch >/dev/null
 git checkout -q main && git pull -q --rebase && git branch -D "$branch" -q 2>/dev/null || true
-tag="v${day//-/.}"
+tag="v${day//-/.}-${stamp:9:2}"
 if ! gh release view "$tag" >/dev/null 2>&1; then
-  gh release create "$tag" --title "War room $day" --notes-file "data/$day/report.md" >/dev/null
+  gh release create "$tag" --title "War room $day ${stamp:9:2}:00" --notes-file "data/$day/report.md" >/dev/null
   echo "released $tag"
 fi
 echo "=== $(date -Is) done $branch"
