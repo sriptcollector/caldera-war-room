@@ -1,5 +1,5 @@
 {
-  "at": "2026-11-15T03:29:03.597Z",
+  "at": "2026-11-15T03:44:05.134Z",
   "rows": [
     {
       "rank": 1,
@@ -48,20 +48,20 @@
     },
     {
       "rank": 6,
+      "handle": "@davidguttman",
+      "name": "David Guttman",
+      "points": 6.9,
+      "change": "-21.5",
+      "city": "Mid-rise",
+      "battle": "peaceful"
+    },
+    {
+      "rank": 7,
       "handle": "@jgeofil",
       "name": "Jeremy",
       "points": 4,
       "change": "+3.0",
       "city": "Houses",
-      "battle": "peaceful"
-    },
-    {
-      "rank": 7,
-      "handle": "@davidguttman",
-      "name": "David Guttman",
-      "points": 3.5,
-      "change": "-24.9",
-      "city": "Mid-rise",
       "battle": "peaceful"
     },
     {
