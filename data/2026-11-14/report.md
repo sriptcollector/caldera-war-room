@@ -1,4 +1,4 @@
-# Rival report 2026-11-14 18:14 PT
+# Rival report 2026-11-14 18:29 PT
 
 - Leader: @mike with 113.8 points (Houses, $5.7M budget)
 - @orion: #4, 31 points, 82.8 behind
