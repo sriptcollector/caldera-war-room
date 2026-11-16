@@ -1,14 +1,14 @@
 {
-  "at": "2026-11-16T08:59:04.888Z",
+  "at": "2026-11-16T09:14:04.079Z",
   "rows": [
     {
       "rank": 1,
       "handle": "@orion",
       "name": "",
-      "points": 0,
-      "change": "-1269.0",
+      "points": 30,
+      "change": "-1239.0",
       "city": "Mid-rise",
-      "battle": "$0 budget"
+      "battle": "$1.5M budget"
     },
     {
       "rank": 2,
