@@ -1,5 +1,5 @@
 {
-  "at": "2026-11-16T10:59:09.318Z",
+  "at": "2026-11-16T11:14:04.894Z",
   "rows": [
     {
       "rank": 1,
@@ -21,6 +21,15 @@
     },
     {
       "rank": 3,
+      "handle": "@davidguttman",
+      "name": "David Guttman",
+      "points": 3.6,
+      "change": "-4.6",
+      "city": "Mid-rise",
+      "battle": "peaceful"
+    },
+    {
+      "rank": 4,
       "handle": "@jvholmes87",
       "name": "Jason V. Holmes",
       "points": 0,
@@ -29,7 +38,7 @@
       "battle": "$0 budget"
     },
     {
-      "rank": 4,
+      "rank": 5,
       "handle": "@thecont1",
       "name": "Mahesh Shantaram",
       "points": 0,
@@ -38,21 +47,12 @@
       "battle": "peaceful"
     },
     {
-      "rank": 5,
+      "rank": 6,
       "handle": "@lwts",
       "name": "",
       "points": 0,
       "change": "-28.0",
       "city": "Houses",
-      "battle": "peaceful"
-    },
-    {
-      "rank": 6,
-      "handle": "@davidguttman",
-      "name": "David Guttman",
-      "points": 0,
-      "change": "-8.2",
-      "city": "Mid-rise",
       "battle": "peaceful"
     },
     {
