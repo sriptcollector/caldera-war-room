@@ -1,5 +1,5 @@
 {
-  "at": "2026-11-17T18:29:04.171Z",
+  "at": "2026-11-17T18:44:04.229Z",
   "rows": [
     {
       "rank": 1,
@@ -12,19 +12,19 @@
     },
     {
       "rank": 2,
-      "handle": "@thecont1",
-      "name": "Mahesh Shantaram",
-      "points": 9,
-      "change": "+6.0",
+      "handle": "@davidguttman",
+      "name": "David Guttman",
+      "points": 24.1,
+      "change": "+1.5",
       "city": "Mid-rise",
       "battle": "peaceful"
     },
     {
       "rank": 3,
-      "handle": "@davidguttman",
-      "name": "David Guttman",
-      "points": 4.8,
-      "change": "-17.8",
+      "handle": "@thecont1",
+      "name": "Mahesh Shantaram",
+      "points": 9,
+      "change": "+6.0",
       "city": "Mid-rise",
       "battle": "peaceful"
     },
