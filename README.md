@@ -6,11 +6,11 @@ An AI agent war room for the nightly [Caldera](https://caldera.social) battle. I
 - `npm test` checks the leaderboard parser.
 
 <!-- standings -->
-## Latest standings (2026-11-17T14:14:04.240Z)
+## Latest standings (2026-11-17T14:29:04.661Z)
 
 | # | Developer | Points | City |
 |---|---|---|---|
-| 1 | @orion | 150 | Mid-rise |
+| 1 | @orion | 196.5 | Mid-rise |
 | 2 | @jvholmes87 | 3.4 | Houses |
 | 3 | @thecont1 | 3 | Mid-rise |
 | 4 | @jgeofil | 2 | Houses |
