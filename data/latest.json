@@ -1,5 +1,5 @@
 {
-  "at": "2026-11-17T08:59:03.841Z",
+  "at": "2026-11-17T09:14:03.969Z",
   "rows": [
     {
       "rank": 1,
@@ -57,6 +57,15 @@
     },
     {
       "rank": 7,
+      "handle": "@horigyns",
+      "name": "hunterh",
+      "points": 0,
+      "change": "-3.0",
+      "city": "Houses",
+      "battle": "$0 budget"
+    },
+    {
+      "rank": 8,
       "handle": "@thecont1",
       "name": "Mahesh Shantaram",
       "points": 0,
@@ -65,7 +74,7 @@
       "battle": "peaceful"
     },
     {
-      "rank": 8,
+      "rank": 9,
       "handle": "@333",
       "name": "binlei",
       "points": 0,
@@ -74,18 +83,9 @@
       "battle": "peaceful"
     },
     {
-      "rank": 9,
+      "rank": 10,
       "handle": "@abineshabee",
       "name": "Abinesh N",
-      "points": 0,
-      "change": "0.0",
-      "city": "Houses",
-      "battle": "peaceful"
-    },
-    {
-      "rank": 10,
-      "handle": "@abp677",
-      "name": "",
       "points": 0,
       "change": "0.0",
       "city": "Houses",
