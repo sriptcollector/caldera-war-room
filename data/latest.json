@@ -1,5 +1,5 @@
 {
-  "at": "2026-11-17T15:14:04.016Z",
+  "at": "2026-11-17T15:29:04.287Z",
   "rows": [
     {
       "rank": 1,
@@ -12,21 +12,21 @@
     },
     {
       "rank": 2,
+      "handle": "@thecont1",
+      "name": "Mahesh Shantaram",
+      "points": 6,
+      "change": "+3.0",
+      "city": "Mid-rise",
+      "battle": "peaceful"
+    },
+    {
+      "rank": 3,
       "handle": "@jvholmes87",
       "name": "Jason V. Holmes",
       "points": 3.4,
       "change": "-74.4",
       "city": "Houses",
       "battle": "$150k budget"
-    },
-    {
-      "rank": 3,
-      "handle": "@thecont1",
-      "name": "Mahesh Shantaram",
-      "points": 3,
-      "change": "0.0",
-      "city": "Mid-rise",
-      "battle": "peaceful"
     },
     {
       "rank": 4,
