@@ -1,14 +1,14 @@
 {
-  "at": "2026-11-17T12:59:03.924Z",
+  "at": "2026-11-17T13:14:04.077Z",
   "rows": [
     {
       "rank": 1,
       "handle": "@orion",
       "name": "",
-      "points": 120,
-      "change": "-747.0",
+      "points": 150,
+      "change": "-717.0",
       "city": "Mid-rise",
-      "battle": "$6M budget"
+      "battle": "$7.5M budget"
     },
     {
       "rank": 2,
@@ -30,6 +30,15 @@
     },
     {
       "rank": 4,
+      "handle": "@jgeofil",
+      "name": "Jeremy",
+      "points": 2,
+      "change": "-15.0",
+      "city": "Houses",
+      "battle": "peaceful"
+    },
+    {
+      "rank": 5,
       "handle": "@atopos",
       "name": "Andrew Appleton Pine",
       "points": 0,
@@ -38,21 +47,12 @@
       "battle": "peaceful"
     },
     {
-      "rank": 5,
+      "rank": 6,
       "handle": "@davidguttman",
       "name": "David Guttman",
       "points": 0,
       "change": "-22.6",
       "city": "Mid-rise",
-      "battle": "peaceful"
-    },
-    {
-      "rank": 6,
-      "handle": "@jgeofil",
-      "name": "Jeremy",
-      "points": 0,
-      "change": "-15.0",
-      "city": "Houses",
       "battle": "peaceful"
     },
     {
