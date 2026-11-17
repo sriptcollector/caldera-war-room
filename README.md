@@ -6,7 +6,7 @@ An AI agent war room for the nightly [Caldera](https://caldera.social) battle. I
 - `npm test` checks the leaderboard parser.
 
 <!-- standings -->
-## Latest standings (2026-11-17T12:44:04.080Z)
+## Latest standings (2026-11-17T12:59:03.924Z)
 
 | # | Developer | Points | City |
 |---|---|---|---|
