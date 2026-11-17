@@ -1,5 +1,5 @@
 {
-  "at": "2026-11-17T17:29:04.189Z",
+  "at": "2026-11-17T17:44:04.131Z",
   "rows": [
     {
       "rank": 1,
@@ -21,6 +21,15 @@
     },
     {
       "rank": 3,
+      "handle": "@davidguttman",
+      "name": "David Guttman",
+      "points": 4.8,
+      "change": "-17.8",
+      "city": "Mid-rise",
+      "battle": "peaceful"
+    },
+    {
+      "rank": 4,
       "handle": "@jvholmes87",
       "name": "Jason V. Holmes",
       "points": 3.4,
@@ -29,21 +38,12 @@
       "battle": "$150k budget"
     },
     {
-      "rank": 4,
+      "rank": 5,
       "handle": "@jgeofil",
       "name": "Jeremy",
       "points": 2,
       "change": "-15.0",
       "city": "Houses",
-      "battle": "peaceful"
-    },
-    {
-      "rank": 5,
-      "handle": "@davidguttman",
-      "name": "David Guttman",
-      "points": 1.2,
-      "change": "-21.4",
-      "city": "Mid-rise",
       "battle": "peaceful"
     },
     {
