@@ -1,5 +1,5 @@
 {
-  "at": "2026-11-17T16:59:04.142Z",
+  "at": "2026-11-17T17:14:04.546Z",
   "rows": [
     {
       "rank": 1,
@@ -48,6 +48,15 @@
     },
     {
       "rank": 6,
+      "handle": "@awkgolf",
+      "name": "TonyK",
+      "points": 1,
+      "change": "new",
+      "city": "Houses",
+      "battle": "$50k budget"
+    },
+    {
+      "rank": 7,
       "handle": "@atopos",
       "name": "Andrew Appleton Pine",
       "points": 0,
@@ -56,7 +65,7 @@
       "battle": "peaceful"
     },
     {
-      "rank": 7,
+      "rank": 8,
       "handle": "@celestial-uprising",
       "name": "Amelia Shepherd",
       "points": 0,
@@ -65,7 +74,7 @@
       "battle": "$0 budget"
     },
     {
-      "rank": 8,
+      "rank": 9,
       "handle": "@horigyns",
       "name": "hunterh",
       "points": 0,
@@ -74,18 +83,9 @@
       "battle": "$0 budget"
     },
     {
-      "rank": 9,
+      "rank": 10,
       "handle": "@333",
       "name": "binlei",
-      "points": 0,
-      "change": "0.0",
-      "city": "Houses",
-      "battle": "peaceful"
-    },
-    {
-      "rank": 10,
-      "handle": "@abineshabee",
-      "name": "Abinesh N",
       "points": 0,
       "change": "0.0",
       "city": "Houses",
