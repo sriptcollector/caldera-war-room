@@ -1,5 +1,5 @@
 {
-  "at": "2026-11-17T10:14:04.090Z",
+  "at": "2026-11-17T10:29:04.363Z",
   "rows": [
     {
       "rank": 1,
@@ -14,10 +14,10 @@
       "rank": 2,
       "handle": "@jvholmes87",
       "name": "Jason V. Holmes",
-      "points": 0,
-      "change": "-77.8",
+      "points": 3.4,
+      "change": "-74.4",
       "city": "Houses",
-      "battle": "$0 budget"
+      "battle": "$150k budget"
     },
     {
       "rank": 3,
