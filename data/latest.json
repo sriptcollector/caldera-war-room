@@ -1,5 +1,5 @@
 {
-  "at": "2026-11-18T00:14:04.763Z",
+  "at": "2026-11-18T00:29:10.267Z",
   "rows": [
     {
       "rank": 1,
@@ -12,6 +12,15 @@
     },
     {
       "rank": 2,
+      "handle": "@mike",
+      "name": "Mike Jones",
+      "points": 278.8,
+      "change": "new",
+      "city": "Houses",
+      "battle": "$14M budget"
+    },
+    {
+      "rank": 3,
       "handle": "@davidguttman",
       "name": "David Guttman",
       "points": 24.1,
@@ -20,7 +29,7 @@
       "battle": "peaceful"
     },
     {
-      "rank": 3,
+      "rank": 4,
       "handle": "@thecont1",
       "name": "Mahesh Shantaram",
       "points": 16,
@@ -29,7 +38,7 @@
       "battle": "peaceful"
     },
     {
-      "rank": 4,
+      "rank": 5,
       "handle": "@jvholmes87",
       "name": "Jason V. Holmes",
       "points": 5.6,
@@ -38,7 +47,7 @@
       "battle": "$300k budget"
     },
     {
-      "rank": 5,
+      "rank": 6,
       "handle": "@jgeofil",
       "name": "Jeremy",
       "points": 2,
@@ -47,7 +56,7 @@
       "battle": "peaceful"
     },
     {
-      "rank": 6,
+      "rank": 7,
       "handle": "@awkgolf",
       "name": "TonyK",
       "points": 1,
@@ -56,7 +65,7 @@
       "battle": "$50k budget"
     },
     {
-      "rank": 7,
+      "rank": 8,
       "handle": "@atopos",
       "name": "Andrew Appleton Pine",
       "points": 0,
@@ -65,7 +74,7 @@
       "battle": "peaceful"
     },
     {
-      "rank": 8,
+      "rank": 9,
       "handle": "@celestial-uprising",
       "name": "Amelia Shepherd",
       "points": 0,
@@ -74,22 +83,13 @@
       "battle": "$0 budget"
     },
     {
-      "rank": 9,
+      "rank": 10,
       "handle": "@horigyns",
       "name": "hunterh",
       "points": 0,
       "change": "-3.0",
       "city": "Houses",
       "battle": "$0 budget"
-    },
-    {
-      "rank": 10,
-      "handle": "@333",
-      "name": "binlei",
-      "points": 0,
-      "change": "0.0",
-      "city": "Houses",
-      "battle": "peaceful"
     }
   ]
 }
