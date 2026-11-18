@@ -1,5 +1,5 @@
 {
-  "at": "2026-11-18T00:59:04.348Z",
+  "at": "2026-11-18T01:14:04.244Z",
   "rows": [
     {
       "rank": 1,
@@ -68,8 +68,8 @@
       "rank": 8,
       "handle": "@atopos",
       "name": "Andrew Appleton Pine",
-      "points": 0,
-      "change": "-28.0",
+      "points": 0.7,
+      "change": "-27.3",
       "city": "Houses",
       "battle": "peaceful"
     },
