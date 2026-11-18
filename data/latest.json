@@ -1,5 +1,5 @@
 {
-  "at": "2026-11-18T18:59:03.091Z",
+  "at": "2026-11-18T19:14:03.087Z",
   "rows": [
     {
       "rank": 1,
@@ -23,8 +23,8 @@
       "rank": 3,
       "handle": "@thecont1",
       "name": "Mahesh Shantaram",
-      "points": 26,
-      "change": "-2.0",
+      "points": 32,
+      "change": "+4.0",
       "city": "Mid-rise",
       "battle": "peaceful"
     },
