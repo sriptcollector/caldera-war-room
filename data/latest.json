@@ -1,14 +1,14 @@
 {
-  "at": "2026-11-18T07:29:04.726Z",
+  "at": "2026-11-18T07:44:04.414Z",
   "rows": [
     {
       "rank": 1,
       "handle": "@orion",
       "name": "",
-      "points": 829.5,
-      "change": "-37.5",
+      "points": 864,
+      "change": "-3.0",
       "city": "Mid-rise",
-      "battle": "$41.5M budget"
+      "battle": "$43.2M budget"
     },
     {
       "rank": 2,
@@ -48,6 +48,15 @@
     },
     {
       "rank": 6,
+      "handle": "@atopos",
+      "name": "Andrew Appleton Pine",
+      "points": 11.9,
+      "change": "-16.1",
+      "city": "Houses",
+      "battle": "peaceful"
+    },
+    {
+      "rank": 7,
       "handle": "@jvholmes87",
       "name": "Jason V. Holmes",
       "points": 5.6,
@@ -56,7 +65,7 @@
       "battle": "$300k budget"
     },
     {
-      "rank": 7,
+      "rank": 8,
       "handle": "@dllen",
       "name": "Roc",
       "points": 4,
@@ -65,7 +74,7 @@
       "battle": "peaceful"
     },
     {
-      "rank": 8,
+      "rank": 9,
       "handle": "@jgeofil",
       "name": "Jeremy",
       "points": 2,
@@ -74,22 +83,13 @@
       "battle": "peaceful"
     },
     {
-      "rank": 9,
+      "rank": 10,
       "handle": "@awkgolf",
       "name": "TonyK",
       "points": 1,
       "change": "new",
       "city": "Houses",
       "battle": "$50k budget"
-    },
-    {
-      "rank": 10,
-      "handle": "@atopos",
-      "name": "Andrew Appleton Pine",
-      "points": 0.7,
-      "change": "-27.3",
-      "city": "Houses",
-      "battle": "peaceful"
     }
   ]
 }
