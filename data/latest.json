@@ -1,30 +1,30 @@
 {
-  "at": "2026-11-18T07:59:04.754Z",
+  "at": "2026-11-18T08:14:05.645Z",
   "rows": [
     {
       "rank": 1,
       "handle": "@orion",
       "name": "",
-      "points": 864,
-      "change": "-3.0",
+      "points": 0,
+      "change": "-864.0",
       "city": "Mid-rise",
-      "battle": "$43.2M budget"
+      "battle": "$0 budget"
     },
     {
       "rank": 2,
       "handle": "@mike",
       "name": "Mike Jones",
-      "points": 379.7,
-      "change": "new",
+      "points": 0,
+      "change": "-379.7",
       "city": "Houses",
-      "battle": "$19M budget"
+      "battle": "$0 budget"
     },
     {
       "rank": 3,
       "handle": "@davidguttman",
       "name": "David Guttman",
-      "points": 43.4,
-      "change": "+20.8",
+      "points": 0,
+      "change": "-43.4",
       "city": "Mid-rise",
       "battle": "peaceful"
     },
@@ -32,8 +32,8 @@
       "rank": 4,
       "handle": "@thecont1",
       "name": "Mahesh Shantaram",
-      "points": 28,
-      "change": "+25.0",
+      "points": 0,
+      "change": "-28.0",
       "city": "Mid-rise",
       "battle": "peaceful"
     },
@@ -41,17 +41,17 @@
       "rank": 5,
       "handle": "@celestial-uprising",
       "name": "Amelia Shepherd",
-      "points": 17,
-      "change": "+6.0",
+      "points": 0,
+      "change": "-17.0",
       "city": "Mid-rise",
-      "battle": "$850k budget"
+      "battle": "$0 budget"
     },
     {
       "rank": 6,
       "handle": "@atopos",
       "name": "Andrew Appleton Pine",
-      "points": 11.9,
-      "change": "-16.1",
+      "points": 0,
+      "change": "-11.9",
       "city": "Houses",
       "battle": "peaceful"
     },
@@ -59,17 +59,17 @@
       "rank": 7,
       "handle": "@jvholmes87",
       "name": "Jason V. Holmes",
-      "points": 5.6,
-      "change": "-81.0",
+      "points": 0,
+      "change": "-5.6",
       "city": "Houses",
-      "battle": "$300k budget"
+      "battle": "$0 budget"
     },
     {
       "rank": 8,
       "handle": "@dllen",
       "name": "Roc",
-      "points": 4,
-      "change": "new",
+      "points": 0,
+      "change": "-4.0",
       "city": "Mid-rise",
       "battle": "peaceful"
     },
@@ -77,8 +77,8 @@
       "rank": 9,
       "handle": "@jgeofil",
       "name": "Jeremy",
-      "points": 2,
-      "change": "-15.0",
+      "points": 0,
+      "change": "-2.0",
       "city": "Houses",
       "battle": "peaceful"
     },
@@ -86,10 +86,10 @@
       "rank": 10,
       "handle": "@awkgolf",
       "name": "TonyK",
-      "points": 1,
-      "change": "new",
+      "points": 0,
+      "change": "-1.0",
       "city": "Houses",
-      "battle": "$50k budget"
+      "battle": "$0 budget"
     }
   ]
 }
