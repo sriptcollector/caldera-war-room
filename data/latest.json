@@ -1,5 +1,5 @@
 {
-  "at": "2026-11-19T18:14:03.957Z",
+  "at": "2026-11-19T18:29:03.935Z",
   "rows": [
     {
       "rank": 1,
@@ -30,20 +30,20 @@
     },
     {
       "rank": 4,
+      "handle": "@thecont1",
+      "name": "Mahesh Shantaram",
+      "points": 2.2,
+      "change": "-67.8",
+      "city": "Mid-rise",
+      "battle": "peaceful"
+    },
+    {
+      "rank": 5,
       "handle": "@jgeofil",
       "name": "Jeremy",
       "points": 2,
       "change": "-3.0",
       "city": "Houses",
-      "battle": "peaceful"
-    },
-    {
-      "rank": 5,
-      "handle": "@thecont1",
-      "name": "Mahesh Shantaram",
-      "points": 0,
-      "change": "-66.0",
-      "city": "Mid-rise",
       "battle": "peaceful"
     },
     {
