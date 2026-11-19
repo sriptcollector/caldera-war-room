@@ -1,14 +1,14 @@
 {
-  "at": "2026-11-19T10:14:03.688Z",
+  "at": "2026-11-19T10:29:03.624Z",
   "rows": [
     {
       "rank": 1,
       "handle": "@orion",
       "name": "",
-      "points": 46.5,
-      "change": "-826.5",
+      "points": 76.5,
+      "change": "-796.5",
       "city": "Mid-rise",
-      "battle": "$2.4M budget"
+      "battle": "$3.9M budget"
     },
     {
       "rank": 2,
@@ -21,6 +21,15 @@
     },
     {
       "rank": 3,
+      "handle": "@jgeofil",
+      "name": "Jeremy",
+      "points": 2,
+      "change": "-3.0",
+      "city": "Houses",
+      "battle": "peaceful"
+    },
+    {
+      "rank": 4,
       "handle": "@thecont1",
       "name": "Mahesh Shantaram",
       "points": 0,
@@ -29,7 +38,7 @@
       "battle": "peaceful"
     },
     {
-      "rank": 4,
+      "rank": 5,
       "handle": "@davidguttman",
       "name": "David Guttman",
       "points": 0,
@@ -38,22 +47,13 @@
       "battle": "peaceful"
     },
     {
-      "rank": 5,
+      "rank": 6,
       "handle": "@celestial-uprising",
       "name": "Amelia Shepherd",
       "points": 0,
       "change": "-19.0",
       "city": "Mid-rise",
       "battle": "$0 budget"
-    },
-    {
-      "rank": 6,
-      "handle": "@jgeofil",
-      "name": "Jeremy",
-      "points": 0,
-      "change": "-4.0",
-      "city": "Houses",
-      "battle": "peaceful"
     },
     {
       "rank": 7,
