@@ -1,14 +1,14 @@
 {
-  "at": "2026-11-19T06:44:03.923Z",
+  "at": "2026-11-19T06:59:03.553Z",
   "rows": [
     {
       "rank": 1,
       "handle": "@orion",
       "name": "",
-      "points": 808.5,
-      "change": "-64.5",
+      "points": 838.5,
+      "change": "-34.5",
       "city": "Mid-rise",
-      "battle": "$40.5M budget"
+      "battle": "$42M budget"
     },
     {
       "rank": 2,
@@ -41,13 +41,22 @@
       "rank": 5,
       "handle": "@celestial-uprising",
       "name": "Amelia Shepherd",
-      "points": 7,
-      "change": "-15.0",
+      "points": 19,
+      "change": "-3.0",
       "city": "Mid-rise",
-      "battle": "$350k budget"
+      "battle": "$950k budget"
     },
     {
       "rank": 6,
+      "handle": "@jgeofil",
+      "name": "Jeremy",
+      "points": 4,
+      "change": "+2.0",
+      "city": "Houses",
+      "battle": "peaceful"
+    },
+    {
+      "rank": 7,
       "handle": "@atopos",
       "name": "Andrew Appleton Pine",
       "points": 0,
@@ -56,7 +65,7 @@
       "battle": "peaceful"
     },
     {
-      "rank": 7,
+      "rank": 8,
       "handle": "@jvholmes87",
       "name": "Jason V. Holmes",
       "points": 0,
@@ -65,21 +74,12 @@
       "battle": "$0 budget"
     },
     {
-      "rank": 8,
+      "rank": 9,
       "handle": "@dllen",
       "name": "Roc",
       "points": 0,
       "change": "-5.0",
       "city": "Mid-rise",
-      "battle": "peaceful"
-    },
-    {
-      "rank": 9,
-      "handle": "@jgeofil",
-      "name": "Jeremy",
-      "points": 0,
-      "change": "-2.0",
-      "city": "Houses",
       "battle": "peaceful"
     },
     {
