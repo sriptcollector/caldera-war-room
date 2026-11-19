@@ -1,5 +1,5 @@
 {
-  "at": "2026-11-19T04:14:03.446Z",
+  "at": "2026-11-19T04:29:03.407Z",
   "rows": [
     {
       "rank": 1,
@@ -41,10 +41,10 @@
       "rank": 5,
       "handle": "@celestial-uprising",
       "name": "Amelia Shepherd",
-      "points": 2,
-      "change": "-20.0",
+      "points": 7,
+      "change": "-15.0",
       "city": "Mid-rise",
-      "battle": "$100k budget"
+      "battle": "$350k budget"
     },
     {
       "rank": 6,
