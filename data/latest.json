@@ -1,5 +1,5 @@
 {
-  "at": "2026-11-20T08:44:03.540Z",
+  "at": "2026-11-20T08:59:03.474Z",
   "rows": [
     {
       "rank": 1,
@@ -14,10 +14,10 @@
       "rank": 2,
       "handle": "@mike",
       "name": "Mike Jones",
-      "points": 0,
-      "change": "-176.8",
+      "points": 13.4,
+      "change": "-163.4",
       "city": "Houses",
-      "battle": "$0 budget"
+      "battle": "$650k budget"
     },
     {
       "rank": 3,
