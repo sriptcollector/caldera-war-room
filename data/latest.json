@@ -1,14 +1,14 @@
 {
-  "at": "2026-11-20T05:59:04.670Z",
+  "at": "2026-11-20T06:14:04.131Z",
   "rows": [
     {
       "rank": 1,
       "handle": "@orion",
       "name": "",
-      "points": 616.5,
-      "change": "-256.5",
+      "points": 646.5,
+      "change": "-226.5",
       "city": "Mid-rise",
-      "battle": "$30.9M budget"
+      "battle": "$32.4M budget"
     },
     {
       "rank": 2,
@@ -41,8 +41,8 @@
       "rank": 5,
       "handle": "@jgeofil",
       "name": "Jeremy",
-      "points": 13,
-      "change": "+8.0",
+      "points": 16,
+      "change": "+11.0",
       "city": "Houses",
       "battle": "peaceful"
     },
