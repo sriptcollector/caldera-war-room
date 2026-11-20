@@ -1,5 +1,5 @@
 {
-  "at": "2026-11-20T18:44:03.864Z",
+  "at": "2026-11-20T18:59:03.933Z",
   "rows": [
     {
       "rank": 1,
@@ -39,6 +39,15 @@
     },
     {
       "rank": 5,
+      "handle": "@thecont1",
+      "name": "Mahesh Shantaram",
+      "points": 2.2,
+      "change": "-27.5",
+      "city": "Mid-rise",
+      "battle": "peaceful"
+    },
+    {
+      "rank": 6,
       "handle": "@atopos",
       "name": "Andrew Appleton Pine",
       "points": 0,
@@ -47,7 +56,7 @@
       "battle": "peaceful"
     },
     {
-      "rank": 6,
+      "rank": 7,
       "handle": "@celestial-uprising",
       "name": "Amelia Shepherd",
       "points": 0,
@@ -56,21 +65,12 @@
       "battle": "$0 budget"
     },
     {
-      "rank": 7,
+      "rank": 8,
       "handle": "@jgeofil",
       "name": "Jeremy",
       "points": 0,
       "change": "-16.0",
       "city": "Houses",
-      "battle": "peaceful"
-    },
-    {
-      "rank": 8,
-      "handle": "@thecont1",
-      "name": "Mahesh Shantaram",
-      "points": 0,
-      "change": "-5.5",
-      "city": "Mid-rise",
       "battle": "peaceful"
     },
     {
