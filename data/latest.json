@@ -1,5 +1,5 @@
 {
-  "at": "2026-11-20T14:29:03.678Z",
+  "at": "2026-11-20T14:44:03.755Z",
   "rows": [
     {
       "rank": 1,
@@ -75,19 +75,19 @@
     },
     {
       "rank": 9,
-      "handle": "@nincode2907",
-      "name": "",
+      "handle": "@austinba",
+      "name": "Austin Baltes",
       "points": 0,
-      "change": "-1.3",
+      "change": "-2.0",
       "city": "Houses",
       "battle": "peaceful"
     },
     {
       "rank": 10,
-      "handle": "@333",
-      "name": "binlei",
+      "handle": "@nincode2907",
+      "name": "",
       "points": 0,
-      "change": "0.0",
+      "change": "-1.3",
       "city": "Houses",
       "battle": "peaceful"
     }
