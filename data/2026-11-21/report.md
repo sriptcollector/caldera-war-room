@@ -1,11 +1,11 @@
-# Rival report 2026-11-21 09:44 PT
+# Rival report 2026-11-21 09:59 PT
 
-- Leader: @orion with 468.6 points (Mid-rise, $23.5M budget)
-- @orion: #1, 468.6 points, 0.0 behind
+- Leader: @orion with 501.6 points (Mid-rise, $25.1M budget)
+- @orion: #1, 501.6 points, 0.0 behind
 
 | # | Developer | Points | Change | City | Battle |
 |---|---|---|---|---|---|
-| 1 | @orion | 468.6 | -575.4 | Mid-rise | $23.5M budget |
+| 1 | @orion | 501.6 | -542.4 | Mid-rise | $25.1M budget |
 | 2 | @jvholmes87 | 56 | +45.2 | Mid-rise | $2.8M budget |
 | 3 | @davidguttman | 33.1 | +28.1 | Mid-rise | peaceful |
 | 4 | @mike | 7.2 | -247.2 | Houses | $350k budget |
