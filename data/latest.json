@@ -1,5 +1,5 @@
 {
-  "at": "2026-11-21T22:59:03.498Z",
+  "at": "2026-11-21T23:14:03.581Z",
   "rows": [
     {
       "rank": 1,
@@ -21,6 +21,15 @@
     },
     {
       "rank": 3,
+      "handle": "@thecont1",
+      "name": "Mahesh Shantaram",
+      "points": 42,
+      "change": "+39.8",
+      "city": "Mid-rise",
+      "battle": "peaceful"
+    },
+    {
+      "rank": 4,
       "handle": "@mike",
       "name": "Mike Jones",
       "points": 34.3,
@@ -29,20 +38,11 @@
       "battle": "$1.7M budget"
     },
     {
-      "rank": 4,
+      "rank": 5,
       "handle": "@davidguttman",
       "name": "David Guttman",
       "points": 33.1,
       "change": "+28.1",
-      "city": "Mid-rise",
-      "battle": "peaceful"
-    },
-    {
-      "rank": 5,
-      "handle": "@thecont1",
-      "name": "Mahesh Shantaram",
-      "points": 3.4,
-      "change": "+1.2",
       "city": "Mid-rise",
       "battle": "peaceful"
     },
