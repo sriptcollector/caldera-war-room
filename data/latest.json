@@ -1,5 +1,5 @@
 {
-  "at": "2026-11-21T21:29:03.690Z",
+  "at": "2026-11-21T21:44:03.646Z",
   "rows": [
     {
       "rank": 1,
@@ -21,21 +21,21 @@
     },
     {
       "rank": 3,
+      "handle": "@mike",
+      "name": "Mike Jones",
+      "points": 34.3,
+      "change": "-220.1",
+      "city": "Houses",
+      "battle": "$1.7M budget"
+    },
+    {
+      "rank": 4,
       "handle": "@davidguttman",
       "name": "David Guttman",
       "points": 33.1,
       "change": "+28.1",
       "city": "Mid-rise",
       "battle": "peaceful"
-    },
-    {
-      "rank": 4,
-      "handle": "@mike",
-      "name": "Mike Jones",
-      "points": 27.1,
-      "change": "-227.3",
-      "city": "Houses",
-      "battle": "$1.4M budget"
     },
     {
       "rank": 5,
