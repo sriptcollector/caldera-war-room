@@ -1,5 +1,5 @@
 {
-  "at": "2026-11-22T05:29:03.744Z",
+  "at": "2026-11-22T05:44:03.847Z",
   "rows": [
     {
       "rank": 1,
@@ -48,6 +48,15 @@
     },
     {
       "rank": 6,
+      "handle": "@atopos",
+      "name": "Andrew Appleton Pine",
+      "points": 4.2,
+      "change": "-2.1",
+      "city": "Houses",
+      "battle": "peaceful"
+    },
+    {
+      "rank": 7,
       "handle": "@benzema216",
       "name": "BENZEMA",
       "points": 3,
@@ -56,20 +65,11 @@
       "battle": "peaceful"
     },
     {
-      "rank": 7,
+      "rank": 8,
       "handle": "@randyellis-wealthberry",
       "name": "Randy E.",
       "points": 3,
       "change": "new",
-      "city": "Houses",
-      "battle": "peaceful"
-    },
-    {
-      "rank": 8,
-      "handle": "@atopos",
-      "name": "Andrew Appleton Pine",
-      "points": 2.8,
-      "change": "-3.5",
       "city": "Houses",
       "battle": "peaceful"
     },
