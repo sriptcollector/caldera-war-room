@@ -6,7 +6,7 @@ An AI agent war room for the nightly [Caldera](https://caldera.social) battle. I
 - `npm test` checks the leaderboard parser.
 
 <!-- standings -->
-## Latest standings (2026-11-22T04:44:03.827Z)
+## Latest standings (2026-11-22T04:59:03.752Z)
 
 | # | Developer | Points | City |
 |---|---|---|---|
@@ -16,8 +16,8 @@ An AI agent war room for the nightly [Caldera](https://caldera.social) battle. I
 | 4 | @thecont1 | 42 | Mid-rise |
 | 5 | @davidguttman | 33.1 | Mid-rise |
 | 6 | @benzema216 | 3 | Houses |
-| 7 | @atopos | 2.8 | Houses |
-| 8 | @333 | 0 | Houses |
-| 9 | @abineshabee | 0 | Houses |
-| 10 | @abp677 | 0 | Houses |
+| 7 | @randyellis-wealthberry | 3 | Houses |
+| 8 | @atopos | 2.8 | Houses |
+| 9 | @333 | 0 | Houses |
+| 10 | @abineshabee | 0 | Houses |
 <!-- /standings -->
