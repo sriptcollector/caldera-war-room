@@ -1,5 +1,5 @@
 {
-  "at": "2026-11-22T09:29:03.939Z",
+  "at": "2026-11-22T09:44:03.905Z",
   "rows": [
     {
       "rank": 1,
@@ -12,6 +12,15 @@
     },
     {
       "rank": 2,
+      "handle": "@benzema216",
+      "name": "BENZEMA",
+      "points": 4,
+      "change": "-1.0",
+      "city": "Houses",
+      "battle": "peaceful"
+    },
+    {
+      "rank": 3,
       "handle": "@jvholmes87",
       "name": "Jason V. Holmes",
       "points": 0,
@@ -20,7 +29,7 @@
       "battle": "$0 budget"
     },
     {
-      "rank": 3,
+      "rank": 4,
       "handle": "@mike",
       "name": "Mike Jones",
       "points": 0,
@@ -29,7 +38,7 @@
       "battle": "$0 budget"
     },
     {
-      "rank": 4,
+      "rank": 5,
       "handle": "@thecont1",
       "name": "Mahesh Shantaram",
       "points": 0,
@@ -38,7 +47,7 @@
       "battle": "peaceful"
     },
     {
-      "rank": 5,
+      "rank": 6,
       "handle": "@jgeofil",
       "name": "Jeremy",
       "points": 0,
@@ -47,21 +56,12 @@
       "battle": "peaceful"
     },
     {
-      "rank": 6,
+      "rank": 7,
       "handle": "@davidguttman",
       "name": "David Guttman",
       "points": 0,
       "change": "-33.1",
       "city": "Mid-rise",
-      "battle": "peaceful"
-    },
-    {
-      "rank": 7,
-      "handle": "@benzema216",
-      "name": "BENZEMA",
-      "points": 0,
-      "change": "-5.0",
-      "city": "Houses",
       "battle": "peaceful"
     },
     {
