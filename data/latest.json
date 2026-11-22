@@ -1,14 +1,14 @@
 {
-  "at": "2026-11-22T16:44:03.188Z",
+  "at": "2026-11-22T16:59:03.195Z",
   "rows": [
     {
       "rank": 1,
       "handle": "@orion",
       "name": "",
-      "points": 476,
-      "change": "-1086.6",
+      "points": 514.6,
+      "change": "-1048.0",
       "city": "Mid-rise",
-      "battle": "$23.8M budget"
+      "battle": "$25.8M budget"
     },
     {
       "rank": 2,
@@ -39,21 +39,21 @@
     },
     {
       "rank": 5,
+      "handle": "@jgeofil",
+      "name": "Jeremy",
+      "points": 4,
+      "change": "-37.0",
+      "city": "Mid-rise",
+      "battle": "peaceful"
+    },
+    {
+      "rank": 6,
       "handle": "@celestial-uprising",
       "name": "Amelia Shepherd",
       "points": 3.4,
       "change": "-1.1",
       "city": "Mid-rise",
       "battle": "$150k budget"
-    },
-    {
-      "rank": 6,
-      "handle": "@jgeofil",
-      "name": "Jeremy",
-      "points": 3,
-      "change": "-38.0",
-      "city": "Mid-rise",
-      "battle": "peaceful"
     },
     {
       "rank": 7,
