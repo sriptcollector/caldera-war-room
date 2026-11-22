@@ -1,4 +1,4 @@
-# Rival report 2026-11-21 23:44 PT
+# Rival report 2026-11-21 23:59 PT
 
 - Leader: @orion with 1494.9 points (Mid-rise, $74.8M budget)
 - @orion: #1, 1494.9 points, 0.0 behind
