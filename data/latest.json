@@ -1,5 +1,5 @@
 {
-  "at": "2026-11-22T07:14:03.760Z",
+  "at": "2026-11-22T07:29:03.827Z",
   "rows": [
     {
       "rank": 1,
@@ -39,20 +39,20 @@
     },
     {
       "rank": 5,
-      "handle": "@davidguttman",
-      "name": "David Guttman",
-      "points": 33.1,
-      "change": "+28.1",
+      "handle": "@jgeofil",
+      "name": "Jeremy",
+      "points": 35,
+      "change": "new",
       "city": "Mid-rise",
       "battle": "peaceful"
     },
     {
       "rank": 6,
-      "handle": "@jgeofil",
-      "name": "Jeremy",
-      "points": 12,
-      "change": "new",
-      "city": "Houses",
+      "handle": "@davidguttman",
+      "name": "David Guttman",
+      "points": 33.1,
+      "change": "+28.1",
+      "city": "Mid-rise",
       "battle": "peaceful"
     },
     {
@@ -77,19 +77,19 @@
       "rank": 9,
       "handle": "@benzema216",
       "name": "BENZEMA",
-      "points": 3,
+      "points": 4,
       "change": "new",
       "city": "Houses",
       "battle": "peaceful"
     },
     {
       "rank": 10,
-      "handle": "@randyellis-wealthberry",
-      "name": "Randy E.",
-      "points": 3,
-      "change": "new",
-      "city": "Houses",
-      "battle": "peaceful"
+      "handle": "@celestial-uprising",
+      "name": "Amelia Shepherd",
+      "points": 3.4,
+      "change": "-2.1",
+      "city": "Mid-rise",
+      "battle": "$150k budget"
     }
   ]
 }
