@@ -1,5 +1,5 @@
 {
-  "at": "2026-11-22T10:44:04.107Z",
+  "at": "2026-11-22T10:59:04.002Z",
   "rows": [
     {
       "rank": 1,
@@ -21,6 +21,15 @@
     },
     {
       "rank": 3,
+      "handle": "@jgeofil",
+      "name": "Jeremy",
+      "points": 3,
+      "change": "-38.0",
+      "city": "Mid-rise",
+      "battle": "peaceful"
+    },
+    {
+      "rank": 4,
       "handle": "@jvholmes87",
       "name": "Jason V. Holmes",
       "points": 0,
@@ -29,7 +38,7 @@
       "battle": "$0 budget"
     },
     {
-      "rank": 4,
+      "rank": 5,
       "handle": "@mike",
       "name": "Mike Jones",
       "points": 0,
@@ -38,20 +47,11 @@
       "battle": "$0 budget"
     },
     {
-      "rank": 5,
+      "rank": 6,
       "handle": "@thecont1",
       "name": "Mahesh Shantaram",
       "points": 0,
       "change": "-42.0",
-      "city": "Mid-rise",
-      "battle": "peaceful"
-    },
-    {
-      "rank": 6,
-      "handle": "@jgeofil",
-      "name": "Jeremy",
-      "points": 0,
-      "change": "-41.0",
       "city": "Mid-rise",
       "battle": "peaceful"
     },
