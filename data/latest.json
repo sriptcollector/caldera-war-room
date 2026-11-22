@@ -1,5 +1,5 @@
 {
-  "at": "2026-11-22T22:14:03.407Z",
+  "at": "2026-11-22T22:29:03.411Z",
   "rows": [
     {
       "rank": 1,
@@ -50,8 +50,8 @@
       "rank": 6,
       "handle": "@jgeofil",
       "name": "Jeremy",
-      "points": 4,
-      "change": "-37.0",
+      "points": 7,
+      "change": "-34.0",
       "city": "Mid-rise",
       "battle": "peaceful"
     },
