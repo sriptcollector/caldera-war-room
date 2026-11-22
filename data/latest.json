@@ -1,5 +1,5 @@
 {
-  "at": "2026-11-22T05:59:03.791Z",
+  "at": "2026-11-22T06:14:03.887Z",
   "rows": [
     {
       "rank": 1,
@@ -48,6 +48,15 @@
     },
     {
       "rank": 6,
+      "handle": "@henry-heng",
+      "name": "Henry heng",
+      "points": 5,
+      "change": "+3.0",
+      "city": "Lot",
+      "battle": "peaceful"
+    },
+    {
+      "rank": 7,
       "handle": "@atopos",
       "name": "Andrew Appleton Pine",
       "points": 4.2,
@@ -56,7 +65,7 @@
       "battle": "peaceful"
     },
     {
-      "rank": 7,
+      "rank": 8,
       "handle": "@benzema216",
       "name": "BENZEMA",
       "points": 3,
@@ -65,7 +74,7 @@
       "battle": "peaceful"
     },
     {
-      "rank": 8,
+      "rank": 9,
       "handle": "@randyellis-wealthberry",
       "name": "Randy E.",
       "points": 3,
@@ -74,18 +83,9 @@
       "battle": "peaceful"
     },
     {
-      "rank": 9,
+      "rank": 10,
       "handle": "@333",
       "name": "binlei",
-      "points": 0,
-      "change": "0.0",
-      "city": "Houses",
-      "battle": "peaceful"
-    },
-    {
-      "rank": 10,
-      "handle": "@abineshabee",
-      "name": "Abinesh N",
       "points": 0,
       "change": "0.0",
       "city": "Houses",
