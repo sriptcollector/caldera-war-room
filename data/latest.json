@@ -1,5 +1,5 @@
 {
-  "at": "2026-11-23T03:59:04.368Z",
+  "at": "2026-11-23T04:14:03.726Z",
   "rows": [
     {
       "rank": 1,
@@ -14,10 +14,10 @@
       "rank": 2,
       "handle": "@mike",
       "name": "Mike Jones",
-      "points": 29.3,
-      "change": "-34.0",
+      "points": 32.1,
+      "change": "-31.2",
       "city": "Houses",
-      "battle": "$1.5M budget"
+      "battle": "$1.6M budget"
     },
     {
       "rank": 3,
@@ -50,8 +50,8 @@
       "rank": 6,
       "handle": "@benzema216",
       "name": "BENZEMA",
-      "points": 14,
-      "change": "+9.0",
+      "points": 15,
+      "change": "+10.0",
       "city": "Houses",
       "battle": "peaceful"
     },
@@ -77,10 +77,10 @@
       "rank": 9,
       "handle": "@jvholmes87",
       "name": "Jason V. Holmes",
-      "points": 0,
-      "change": "-70.0",
+      "points": 3,
+      "change": "-67.0",
       "city": "Mid-rise",
-      "battle": "$0 budget"
+      "battle": "$150k budget"
     },
     {
       "rank": 10,
