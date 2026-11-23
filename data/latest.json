@@ -1,14 +1,14 @@
 {
-  "at": "2026-11-23T02:59:03.543Z",
+  "at": "2026-11-23T03:14:03.638Z",
   "rows": [
     {
       "rank": 1,
       "handle": "@orion",
       "name": "",
-      "points": 1163.2,
-      "change": "-399.4",
+      "points": 1201.8,
+      "change": "-360.8",
       "city": "Mid-rise",
-      "battle": "$58.2M budget"
+      "battle": "$60.1M budget"
     },
     {
       "rank": 2,
@@ -39,20 +39,20 @@
     },
     {
       "rank": 5,
+      "handle": "@jgeofil",
+      "name": "Jeremy",
+      "points": 19,
+      "change": "-22.0",
+      "city": "Mid-rise",
+      "battle": "peaceful"
+    },
+    {
+      "rank": 6,
       "handle": "@benzema216",
       "name": "BENZEMA",
       "points": 14,
       "change": "+9.0",
       "city": "Houses",
-      "battle": "peaceful"
-    },
-    {
-      "rank": 6,
-      "handle": "@jgeofil",
-      "name": "Jeremy",
-      "points": 12,
-      "change": "-29.0",
-      "city": "Mid-rise",
       "battle": "peaceful"
     },
     {
