@@ -1,5 +1,5 @@
 {
-  "at": "2026-11-23T05:14:03.614Z",
+  "at": "2026-11-23T05:29:03.685Z",
   "rows": [
     {
       "rank": 1,
@@ -50,8 +50,8 @@
       "rank": 6,
       "handle": "@benzema216",
       "name": "BENZEMA",
-      "points": 15,
-      "change": "+10.0",
+      "points": 20,
+      "change": "+15.0",
       "city": "Houses",
       "battle": "peaceful"
     },
