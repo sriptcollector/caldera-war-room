@@ -1,5 +1,5 @@
 {
-  "at": "2026-11-23T22:59:03.238Z",
+  "at": "2026-11-23T23:14:03.211Z",
   "rows": [
     {
       "rank": 1,
@@ -30,6 +30,15 @@
     },
     {
       "rank": 4,
+      "handle": "@celestial-uprising",
+      "name": "Amelia Shepherd",
+      "points": 4.6,
+      "change": "+1.2",
+      "city": "Mid-rise",
+      "battle": "$250k budget"
+    },
+    {
+      "rank": 5,
       "handle": "@thecont1",
       "name": "Mahesh Shantaram",
       "points": 3.5,
@@ -38,22 +47,13 @@
       "battle": "peaceful"
     },
     {
-      "rank": 5,
+      "rank": 6,
       "handle": "@davidguttman",
       "name": "David Guttman",
       "points": 3,
       "change": "new",
       "city": "Mid-rise",
       "battle": "peaceful"
-    },
-    {
-      "rank": 6,
-      "handle": "@celestial-uprising",
-      "name": "Amelia Shepherd",
-      "points": 1.2,
-      "change": "-2.2",
-      "city": "Mid-rise",
-      "battle": "$50k budget"
     },
     {
       "rank": 7,
