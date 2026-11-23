@@ -1,17 +1,26 @@
 {
-  "at": "2026-11-23T12:29:03.841Z",
+  "at": "2026-11-23T12:44:03.876Z",
   "rows": [
     {
       "rank": 1,
       "handle": "@orion",
       "name": "",
-      "points": 202.6,
-      "change": "-1409.8",
+      "points": 236.6,
+      "change": "-1375.8",
       "city": "Mid-rise",
-      "battle": "$10.2M budget"
+      "battle": "$11.9M budget"
     },
     {
       "rank": 2,
+      "handle": "@celestial-uprising",
+      "name": "Amelia Shepherd",
+      "points": 1.2,
+      "change": "-2.2",
+      "city": "Mid-rise",
+      "battle": "$50k budget"
+    },
+    {
+      "rank": 3,
       "handle": "@mike",
       "name": "Mike Jones",
       "points": 0.9,
@@ -20,7 +29,7 @@
       "battle": "$50k budget"
     },
     {
-      "rank": 3,
+      "rank": 4,
       "handle": "@jgeofil",
       "name": "Jeremy",
       "points": 0,
@@ -29,7 +38,7 @@
       "battle": "peaceful"
     },
     {
-      "rank": 4,
+      "rank": 5,
       "handle": "@lwts",
       "name": "",
       "points": 0,
@@ -38,7 +47,7 @@
       "battle": "$0 budget"
     },
     {
-      "rank": 5,
+      "rank": 6,
       "handle": "@thecont1",
       "name": "Mahesh Shantaram",
       "points": 0,
@@ -47,7 +56,7 @@
       "battle": "peaceful"
     },
     {
-      "rank": 6,
+      "rank": 7,
       "handle": "@benzema216",
       "name": "BENZEMA",
       "points": 0,
@@ -56,7 +65,7 @@
       "battle": "peaceful"
     },
     {
-      "rank": 7,
+      "rank": 8,
       "handle": "@radrebelsam",
       "name": "Dexin Yang",
       "points": 0,
@@ -65,20 +74,11 @@
       "battle": "peaceful"
     },
     {
-      "rank": 8,
+      "rank": 9,
       "handle": "@jvholmes87",
       "name": "Jason V. Holmes",
       "points": 0,
       "change": "-6.0",
-      "city": "Mid-rise",
-      "battle": "$0 budget"
-    },
-    {
-      "rank": 9,
-      "handle": "@celestial-uprising",
-      "name": "Amelia Shepherd",
-      "points": 0,
-      "change": "-3.4",
       "city": "Mid-rise",
       "battle": "$0 budget"
     },
