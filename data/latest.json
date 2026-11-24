@@ -1,5 +1,5 @@
 {
-  "at": "2026-11-24T18:44:04.757Z",
+  "at": "2026-11-24T18:59:09.441Z",
   "rows": [
     {
       "rank": 1,
@@ -39,6 +39,15 @@
     },
     {
       "rank": 5,
+      "handle": "@dllen",
+      "name": "Roc",
+      "points": 5,
+      "change": "+3.0",
+      "city": "Mid-rise",
+      "battle": "peaceful"
+    },
+    {
+      "rank": 6,
       "handle": "@thecont1",
       "name": "Mahesh Shantaram",
       "points": 2.4,
@@ -47,7 +56,7 @@
       "battle": "peaceful"
     },
     {
-      "rank": 6,
+      "rank": 7,
       "handle": "@atopos",
       "name": "Andrew Appleton Pine",
       "points": 0,
@@ -56,7 +65,7 @@
       "battle": "peaceful"
     },
     {
-      "rank": 7,
+      "rank": 8,
       "handle": "@benzema216",
       "name": "BENZEMA",
       "points": 0,
@@ -65,7 +74,7 @@
       "battle": "peaceful"
     },
     {
-      "rank": 8,
+      "rank": 9,
       "handle": "@davidguttman",
       "name": "David Guttman",
       "points": 0,
@@ -74,18 +83,9 @@
       "battle": "peaceful"
     },
     {
-      "rank": 9,
+      "rank": 10,
       "handle": "@333",
       "name": "binlei",
-      "points": 0,
-      "change": "0.0",
-      "city": "Houses",
-      "battle": "peaceful"
-    },
-    {
-      "rank": 10,
-      "handle": "@abineshabee",
-      "name": "Abinesh N",
       "points": 0,
       "change": "0.0",
       "city": "Houses",
