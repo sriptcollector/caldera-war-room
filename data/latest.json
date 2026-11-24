@@ -1,14 +1,14 @@
 {
-  "at": "2026-11-24T16:59:03.634Z",
+  "at": "2026-11-24T17:14:03.655Z",
   "rows": [
     {
       "rank": 1,
       "handle": "@orion",
       "name": "",
-      "points": 276.5,
-      "change": "-617.1",
+      "points": 311.1,
+      "change": "-582.5",
       "city": "Mid-rise",
-      "battle": "$13.9M budget"
+      "battle": "$15.6M budget"
     },
     {
       "rank": 2,
@@ -39,6 +39,15 @@
     },
     {
       "rank": 5,
+      "handle": "@thecont1",
+      "name": "Mahesh Shantaram",
+      "points": 1.2,
+      "change": "-2.3",
+      "city": "Mid-rise",
+      "battle": "peaceful"
+    },
+    {
+      "rank": 6,
       "handle": "@atopos",
       "name": "Andrew Appleton Pine",
       "points": 0,
@@ -47,21 +56,12 @@
       "battle": "peaceful"
     },
     {
-      "rank": 6,
+      "rank": 7,
       "handle": "@benzema216",
       "name": "BENZEMA",
       "points": 0,
       "change": "-8.0",
       "city": "Houses",
-      "battle": "peaceful"
-    },
-    {
-      "rank": 7,
-      "handle": "@thecont1",
-      "name": "Mahesh Shantaram",
-      "points": 0,
-      "change": "-3.5",
-      "city": "Mid-rise",
       "battle": "peaceful"
     },
     {
