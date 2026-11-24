@@ -1,5 +1,5 @@
 {
-  "at": "2026-11-24T04:59:03.673Z",
+  "at": "2026-11-24T05:14:03.236Z",
   "rows": [
     {
       "rank": 1,
@@ -21,6 +21,15 @@
     },
     {
       "rank": 3,
+      "handle": "@celestial-uprising",
+      "name": "Amelia Shepherd",
+      "points": 13.8,
+      "change": "+10.4",
+      "city": "Mid-rise",
+      "battle": "$700k budget"
+    },
+    {
+      "rank": 4,
       "handle": "@atopos",
       "name": "Andrew Appleton Pine",
       "points": 11.2,
@@ -29,22 +38,13 @@
       "battle": "peaceful"
     },
     {
-      "rank": 4,
+      "rank": 5,
       "handle": "@benzema216",
       "name": "BENZEMA",
       "points": 8,
       "change": "-20.6",
       "city": "Houses",
       "battle": "peaceful"
-    },
-    {
-      "rank": 5,
-      "handle": "@celestial-uprising",
-      "name": "Amelia Shepherd",
-      "points": 4.6,
-      "change": "+1.2",
-      "city": "Mid-rise",
-      "battle": "$250k budget"
     },
     {
       "rank": 6,
