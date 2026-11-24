@@ -1,14 +1,14 @@
 {
-  "at": "2026-11-24T17:44:03.763Z",
+  "at": "2026-11-24T17:59:04.222Z",
   "rows": [
     {
       "rank": 1,
       "handle": "@orion",
       "name": "",
-      "points": 311.1,
-      "change": "-582.5",
+      "points": 340.5,
+      "change": "-553.1",
       "city": "Mid-rise",
-      "battle": "$15.6M budget"
+      "battle": "$17.1M budget"
     },
     {
       "rank": 2,
@@ -41,8 +41,8 @@
       "rank": 5,
       "handle": "@thecont1",
       "name": "Mahesh Shantaram",
-      "points": 1.2,
-      "change": "-2.3",
+      "points": 2.4,
+      "change": "-1.1",
       "city": "Mid-rise",
       "battle": "peaceful"
     },
