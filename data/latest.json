@@ -1,23 +1,23 @@
 {
-  "at": "2026-11-24T18:59:09.441Z",
+  "at": "2026-11-24T19:14:06.598Z",
   "rows": [
     {
       "rank": 1,
       "handle": "@orion",
       "name": "",
-      "points": 340.5,
-      "change": "-553.1",
+      "points": 380.2,
+      "change": "-436.8",
       "city": "Mid-rise",
-      "battle": "$17.1M budget"
+      "battle": "$19M budget"
     },
     {
       "rank": 2,
       "handle": "@mike",
       "name": "Mike Jones",
-      "points": 37.6,
-      "change": "-3.2",
+      "points": 71.5,
+      "change": "+30.7",
       "city": "Houses",
-      "battle": "$1.9M budget"
+      "battle": "$3.6M budget"
     },
     {
       "rank": 3,
@@ -32,10 +32,10 @@
       "rank": 4,
       "handle": "@jvholmes87",
       "name": "Jason V. Holmes",
-      "points": 6,
-      "change": "-15.0",
+      "points": 8.8,
+      "change": "-12.2",
       "city": "Mid-rise",
-      "battle": "$300k budget"
+      "battle": "$450k budget"
     },
     {
       "rank": 5,
