@@ -1,5 +1,5 @@
 {
-  "at": "2026-11-24T00:14:03.059Z",
+  "at": "2026-11-24T00:29:03.025Z",
   "rows": [
     {
       "rank": 1,
@@ -30,6 +30,15 @@
     },
     {
       "rank": 4,
+      "handle": "@benzema216",
+      "name": "BENZEMA",
+      "points": 8,
+      "change": "-20.6",
+      "city": "Houses",
+      "battle": "peaceful"
+    },
+    {
+      "rank": 5,
       "handle": "@celestial-uprising",
       "name": "Amelia Shepherd",
       "points": 4.6,
@@ -38,7 +47,7 @@
       "battle": "$250k budget"
     },
     {
-      "rank": 5,
+      "rank": 6,
       "handle": "@thecont1",
       "name": "Mahesh Shantaram",
       "points": 3.5,
@@ -47,7 +56,7 @@
       "battle": "peaceful"
     },
     {
-      "rank": 6,
+      "rank": 7,
       "handle": "@davidguttman",
       "name": "David Guttman",
       "points": 3,
@@ -56,21 +65,12 @@
       "battle": "peaceful"
     },
     {
-      "rank": 7,
+      "rank": 8,
       "handle": "@jgeofil",
       "name": "Jeremy",
       "points": 0,
       "change": "-31.0",
       "city": "Mid-rise",
-      "battle": "peaceful"
-    },
-    {
-      "rank": 8,
-      "handle": "@benzema216",
-      "name": "BENZEMA",
-      "points": 0,
-      "change": "-28.6",
-      "city": "Houses",
       "battle": "peaceful"
     },
     {
