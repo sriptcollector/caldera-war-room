@@ -1,23 +1,23 @@
 {
-  "at": "2026-11-24T08:44:03.425Z",
+  "at": "2026-11-24T08:59:03.455Z",
   "rows": [
     {
       "rank": 1,
+      "handle": "@orion",
+      "name": "",
+      "points": 29.4,
+      "change": "-864.2",
+      "city": "Mid-rise",
+      "battle": "$1.5M budget"
+    },
+    {
+      "rank": 2,
       "handle": "@jvholmes87",
       "name": "Jason V. Holmes",
       "points": 6,
       "change": "-15.0",
       "city": "Mid-rise",
       "battle": "$300k budget"
-    },
-    {
-      "rank": 2,
-      "handle": "@orion",
-      "name": "",
-      "points": 0,
-      "change": "-883.4",
-      "city": "Mid-rise",
-      "battle": "$0 budget"
     },
     {
       "rank": 3,
