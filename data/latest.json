@@ -1,5 +1,5 @@
 {
-  "at": "2026-11-24T13:14:03.649Z",
+  "at": "2026-11-24T13:29:03.561Z",
   "rows": [
     {
       "rank": 1,
@@ -12,6 +12,15 @@
     },
     {
       "rank": 2,
+      "handle": "@celestial-uprising",
+      "name": "Amelia Shepherd",
+      "points": 10.5,
+      "change": "-7.9",
+      "city": "Mid-rise",
+      "battle": "$550k budget"
+    },
+    {
+      "rank": 3,
       "handle": "@jvholmes87",
       "name": "Jason V. Holmes",
       "points": 6,
@@ -20,22 +29,13 @@
       "battle": "$300k budget"
     },
     {
-      "rank": 3,
+      "rank": 4,
       "handle": "@mike",
       "name": "Mike Jones",
-      "points": 3.8,
-      "change": "-37.0",
+      "points": 5.6,
+      "change": "-35.2",
       "city": "Houses",
-      "battle": "$200k budget"
-    },
-    {
-      "rank": 4,
-      "handle": "@celestial-uprising",
-      "name": "Amelia Shepherd",
-      "points": 0,
-      "change": "-18.4",
-      "city": "Mid-rise",
-      "battle": "$0 budget"
+      "battle": "$300k budget"
     },
     {
       "rank": 5,
