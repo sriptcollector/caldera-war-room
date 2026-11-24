@@ -1,8 +1,17 @@
 {
-  "at": "2026-11-24T08:29:03.393Z",
+  "at": "2026-11-24T08:44:03.425Z",
   "rows": [
     {
       "rank": 1,
+      "handle": "@jvholmes87",
+      "name": "Jason V. Holmes",
+      "points": 6,
+      "change": "-15.0",
+      "city": "Mid-rise",
+      "battle": "$300k budget"
+    },
+    {
+      "rank": 2,
       "handle": "@orion",
       "name": "",
       "points": 0,
@@ -11,7 +20,7 @@
       "battle": "$0 budget"
     },
     {
-      "rank": 2,
+      "rank": 3,
       "handle": "@mike",
       "name": "Mike Jones",
       "points": 0,
@@ -20,7 +29,7 @@
       "battle": "$0 budget"
     },
     {
-      "rank": 3,
+      "rank": 4,
       "handle": "@celestial-uprising",
       "name": "Amelia Shepherd",
       "points": 0,
@@ -29,7 +38,7 @@
       "battle": "$0 budget"
     },
     {
-      "rank": 4,
+      "rank": 5,
       "handle": "@atopos",
       "name": "Andrew Appleton Pine",
       "points": 0,
@@ -38,7 +47,7 @@
       "battle": "peaceful"
     },
     {
-      "rank": 5,
+      "rank": 6,
       "handle": "@benzema216",
       "name": "BENZEMA",
       "points": 0,
@@ -47,7 +56,7 @@
       "battle": "peaceful"
     },
     {
-      "rank": 6,
+      "rank": 7,
       "handle": "@thecont1",
       "name": "Mahesh Shantaram",
       "points": 0,
@@ -56,22 +65,13 @@
       "battle": "peaceful"
     },
     {
-      "rank": 7,
+      "rank": 8,
       "handle": "@davidguttman",
       "name": "David Guttman",
       "points": 0,
       "change": "-3.0",
       "city": "Mid-rise",
       "battle": "peaceful"
-    },
-    {
-      "rank": 8,
-      "handle": "@jvholmes87",
-      "name": "Jason V. Holmes",
-      "points": 0,
-      "change": "-3.0",
-      "city": "Mid-rise",
-      "battle": "$0 budget"
     },
     {
       "rank": 9,
