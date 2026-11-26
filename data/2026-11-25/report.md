@@ -1,8 +1,8 @@
-# Rival report 2026-11-25 18:44 PT
+# Rival report 2026-11-25 18:59 PT
 
-- Leader: @davidtphung with 3 points (Houses, $150k budget)
+- Leader: @davidtphung with 5 points (Houses, $250k budget)
 - @orion: not on the board yet
 
 | # | Developer | Points | Change | City | Battle |
 |---|---|---|---|---|---|
-| 8 | @davidtphung | 3 | new | Houses | $150k budget |
+| 7 | @davidtphung | 5 | new | Houses | $250k budget |
