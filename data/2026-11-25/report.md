@@ -1,4 +1,4 @@
-# Rival report 2026-11-25 18:14 PT
+# Rival report 2026-11-25 18:29 PT
 
 - Leader: @davidtphung with 3 points (Houses, $150k budget)
 - @orion: not on the board yet
